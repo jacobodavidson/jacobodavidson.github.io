@@ -1,0 +1,29 @@
+body {
+	background: black;
+	font-size:30px;
+}
+
+.assignment {
+	display:flex;
+	padding:10px;
+	margin:10px;
+	background: azure;
+}
+
+.assignment img {
+	width:200px;
+	padding:10px;
+}
+
+h1 {
+	color: lime;
+	text-align:center;
+	font-family: Rockwell;
+	font-size: 100px;
+}
+
+h2 {
+	color: black;
+	font-family: Courier;
+}
+
