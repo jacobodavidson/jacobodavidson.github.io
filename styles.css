@@ -1,29 +1,90 @@
 body {
-	background: black;
+	background: #647678;
 	font-size:30px;
 }
 
 .assignment {
 	display:flex;
-	padding:10px;
-	margin:10px;
-	background: azure;
+	padding:5px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background: #D5FBFF;
+	border: 6px solid black;
+	border-radius: 25px;
+}
+
+.ass-details {
+	font-family: Rockwell;
+	color: #2F3738;
 }
 
 .assignment img {
 	width:200px;
-	padding:10px;
+	margin: 15px;
+	border: 6px solid black;
+	border-radius: 25px;
+}
+
+.assignment img:hover {
+	width:200px;
+	margin:15px;
+	border: 6px solid #9FBCBF;
 }
 
 h1 {
-	color: lime;
+	color: black;
 	text-align:center;
-	font-family: Rockwell;
+	font-family: Courier;
 	font-size: 100px;
 }
 
 h2 {
 	color: black;
+	font-family: Rockwell;
+	font-size: 55px;
+	margin-bottom: 0px;
+	margin-top: 100px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+h3 {
+	color: #2F3738;
 	font-family: Courier;
 }
+
+h4 {
+	text-align: center;
+	color: black;
+	font-family: Courier;
+	font-size: 40px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+h5 {
+	text-align: center;
+	margin-bottom: 0px;
+	color: black;
+	font-family: Rockwell;
+	font-size: 40px;
+}
+
+a {
+	text-decoration:none;
+	color: black;
+}
+
+a:hover {
+	color: #9FBCBF;
+}
+
+p {
+	color: #2F3738;
+	font-family: Rockwell;
+}
+
+
 
